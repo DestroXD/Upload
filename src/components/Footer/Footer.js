@@ -44,14 +44,11 @@ function Footer() {
         <FooterLinksWrapper>
           <FooterLinkItems>
             <FooterLinkTitle>About Us</FooterLinkTitle>
-            <FooterLink to='/SignUp'>How it works</FooterLink>
-            <FooterLink to='/'>Testimonials</FooterLink>
+            <FooterLink to='/SignUp'>About us</FooterLink>
           </FooterLinkItems>
           <FooterLinkItems>
             <FooterLinkTitle>Contact Us</FooterLinkTitle>
             <FooterLink to='/'>Contact</FooterLink>
-            <FooterLink to='/'>Support</FooterLink>
-            <FooterLink to='/'>Destinations</FooterLink>
           </FooterLinkItems>
         </FooterLinksWrapper>
       </FooterLinksContainer>
